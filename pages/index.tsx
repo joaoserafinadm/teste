@@ -47,7 +47,7 @@ export default function Home() {
           amount: -170.54 // This one is shown incomplete in the image
         },
         {
-          recipient: 'Super Pavan Comercio De Alimentos',
+          recipient: 'Gowd Instituicao De Pagamento Ltda',
           amount: 1077.44 // This one is shown incomplete in the image
         }
 
@@ -209,7 +209,7 @@ export default function Home() {
           <div className={styles.balanceInfo}>
             <p className={styles.balanceLabel}>Saldo disponível em conta</p>
             <div className={styles.balanceValue}>
-              <span>R$ {balanceVisible ? '1.234,56' : '********'}</span>
+              <span>R$ {balanceVisible ? '333,85' : '********'}</span>
               <button 
                 className={styles.visibilityToggle}
                 onClick={() => setBalanceVisible(!balanceVisible)}
