@@ -92,7 +92,7 @@ export default function Home() {
         },
         {
           recipient: 'Bfg Choperia Ltda',
-          amount: -22.00
+          amount: -58.00
         },
         {
           recipient: 'Nonemacher Postos De Combustiveis',
